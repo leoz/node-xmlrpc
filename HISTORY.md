@@ -1,3 +1,7 @@
+## 1.3.2 / 2016-03-19
+
+ * Browserify support.
+
 ## 1.3.1 / 2015-05-23
 
  * Adds option to specify xml encoding.
