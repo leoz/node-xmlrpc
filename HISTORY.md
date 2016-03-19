@@ -1,6 +1,7 @@
 ## 1.3.3 / 2016-03-19
 
  * Updated dependencies.
+ * Fixed protocol handling.
  
 ## 1.3.2 / 2016-03-19
 
